@@ -1,0 +1,15 @@
+{
+    "name": "coding-train-node-demo",
+    "version": "1.0.0",
+    "description": "Just for the demo on coding training.",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specifield\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "cowsay": "^1.5.0"
+    }
+}
